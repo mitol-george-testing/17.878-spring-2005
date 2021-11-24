@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "12f19690-76a8-bc98-e87c-227955ed3f47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Qualitative Research: Design and Methods",
+  "course_description": "This seminar explores the development and application of qualitative research designs and methods in political analysis. It considers a broad array of approaches, from exploratory narratives to focused-comparison case studies, for investigating plausible alternative hypotheses. The focus is on analysis, not data collection.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.878",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
